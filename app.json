@@ -1,0 +1,7 @@
+{
+  "name": "Dialogflow - Twilio Simple Chatbot",
+  "description": "Dialogflow - Twilio Simple Chatbot",
+  "repository": "https://github.com/jpruden92/dialogflow-twilio",
+  "logo": "https://sweetcode.io/wp-content/uploads/2017/07/Unknown-3.png",
+  "keywords": ["node", "express", "static"]
+}
