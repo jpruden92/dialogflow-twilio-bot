@@ -1,5 +1,7 @@
 # Dialogflow - Twilio - Heroku basic chatbot
 
+**Check Slides here:** [https://docs.google.com/presentation/d/1rJQk7QWAewChzhJqUNzZ4G3v16IEPI2ah9sKTZaRyik](https://docs.google.com/presentation/d/1rJQk7QWAewChzhJqUNzZ4G3v16IEPI2ah9sKTZaRyik)
+
 This repo will allow to you to generate a simple conversational phone chatbot in less than 2 hours. You only have to follow below steps to configure your Twilio and Dialogflow accounts.
 
 ## 1. Create your Twilio account.
